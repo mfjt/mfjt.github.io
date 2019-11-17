@@ -1,3 +1,3 @@
-# mfjt.github.io
+# mfjt.jp
 
 * [diary](http://diary.mfjt.jp/)
